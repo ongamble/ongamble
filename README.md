@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+## My name is Olivia, or Liv Gamble. I am currently a student at Clemson working towards my Masters of Data Science and Analytics.
+
 <!--
 **ongamble/ongamble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
